@@ -14,7 +14,6 @@ A lightweight batch-processing workflow for running **DIRT (Digital Imaging of R
 - Automatically creates organized output directories for each image
 - Uses the official `computationalplantscience/dirt` Docker image
 - Generates image-specific DIRT outputs
-- Appends trait measurements into a single `traits.csv` file
 - Eliminates the need to install Python, graph-tool, or DIRT dependencies locally
 - Suitable for high-throughput chile pepper root phenotyping
 
@@ -189,7 +188,6 @@ After completion:
 
 ```text
 results/      # Image-specific DIRT outputs
-traits.csv    # Combined trait dataset
 ```
 ## Example Input and Output
 
