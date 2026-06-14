@@ -4,7 +4,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Enabled-blue.svg)
 ![Bash](https://img.shields.io/badge/Language-Bash-green.svg)
 
-A lightweight batch-processing workflow for running **DIRT (Digital Imaging of Root Traits)** on chile pepper root images using the official Docker image from the Computational Plant Science Lab, The University of Arizona. This workflow is designed for researchers using **Docker Desktop with WSL integration** and enables high-throughput root phenotyping without installing DIRT or its dependencies locally.
+A lightweight batch-processing workflow for running **DIRT (Digital Imaging of Root Traits)** on chile pepper root images using the official Docker image from the Computational Plant Science Lab, The University of Arizona. This workflow is designed for plant breeders using **Docker Desktop with WSL integration** and enables high-throughput root phenotyping without installing DIRT or its dependencies locally.
 
 ---
 
