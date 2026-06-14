@@ -155,21 +155,10 @@ results/
 │
 └── ...
 ```
-
-A combined trait file is also generated:
-
-```text
-traits.csv
-```
-
-This file contains trait measurements from all processed images and can be imported into R, Python, Excel, JMP, SAS, or other statistical software for downstream analysis.
-
----
-
 ## Example Workflow
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dirt-batch-root-analysis.git
+git clone https://github.com/YOUR_USERNAME/Pheno-Roots-analysis.git
 
 cd dirt-batch-root-analysis
 
