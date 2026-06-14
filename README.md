@@ -1,4 +1,4 @@
-# DIRT Batch Processor for Chile Pepper Root Images
+# DIRT Batch Processor for 2D Root Images
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Docker](https://img.shields.io/badge/Docker-Enabled-blue.svg)
