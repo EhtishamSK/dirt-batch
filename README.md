@@ -74,7 +74,7 @@ This only needs to be done once.
 Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dirt-batch-root-analysis.git
+git clone https://github.com/YOUR_USERNAME/dirt-batch.git
 cd dirt-batch-root-analysis
 ```
 
